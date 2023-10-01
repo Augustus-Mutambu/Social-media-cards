@@ -15,6 +15,9 @@ body{
 .fb{
     border-top: skyblue solid 3px;
 }
+.twitter{
+    border-top: skyblue solid 3px;
+}
 .ig{
     border-image: linear-gradient(to right, orange, red) 30;
     border-width: 3px;
@@ -23,6 +26,9 @@ body{
     border-right: none;
     border-bottom: none;
     
+}
+.youtube{
+    border-top: orangered solid 3px;
 }
 .dash-heading{
     display: flex;
@@ -55,5 +61,6 @@ body{
 }
 .secondcards{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 20px;
 }
